@@ -8,9 +8,7 @@
   <br>
   <p>
    
- oi! meu nome é Clara, estou aprendendo a programar.  ~-_ Steamin'         |  ((     ___              | Let us not forget our
-  _-~    Hot            |   ))  \___/_  Bottomless | tea-drinking sisters
-c|_|    JAVA! 
+ oi! meu nome é Clara, estou aprendendo a programar. 
   <p>
     <a href="https://www.youtube.com/watch?v=HkgV_-nJOuE">favs T_T</a> 
   </p>
