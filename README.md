@@ -1,18 +1,36 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h2 align="right">olá, mundo!~ ( ˶°ㅁ°)  meu nome é Clara, estou aprendendo a programar.</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/clrasdev/clrasdev/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-    <img src="https://64.media.tumblr.com/b9e5703710162e505afe2b495ad703d2/e4f8c035f1add387-05/s75x75_c1/15280590b566c4724652766bd388d50f101eb6ea.gifv" width="60" height="60">
-  <br>
-  <p>
-   
- oi! meu nome é Clara, estou aprendendo a programar. 
-  <p>
-    <a href="https://www.youtube.com/watch?v=HkgV_-nJOuE">favs T_T</a> 
-  </p>
-  <br>
- 
-  
-  
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/libertraum?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mccnc200606@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
