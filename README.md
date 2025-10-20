@@ -8,10 +8,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/clrasdev/clrasdev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
