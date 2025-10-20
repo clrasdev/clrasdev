@@ -10,7 +10,7 @@
    
  oi! meu nome é Clara, estou aprendendo a programar.
   <p>
-    <a href="https://www.youtube.com/watch?v=HkgV_-nJOuE">favs T_T</a> • 
+    <a href="https://www.youtube.com/watch?v=HkgV_-nJOuE">favs T_T</a> 
   </p>
   <br>
  
