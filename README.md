@@ -4,7 +4,9 @@
 
 ###
 
-<h2 align="right">olá, mundo!~ ( ˶°ㅁ°)  meu nome é Clara, estou aprendendo a programar.</h2>
+<h2 align="right">olá, mundo!~ ( ˶°ㅁ°) </h2>
+<h3> sobre mim </h3>
+<h4> meu nome é Clara, estou no primeiro período de ciências da computação e estou aprendendo a programar. <b> aqui estão algumas linguagens que aprendi durante minha trajetória: </b></h4>
 
 ###
 
