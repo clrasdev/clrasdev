@@ -10,24 +10,24 @@
 </table>
 
 <p align="left"> 
-I'm Clara! I am pursuing a Bachelor's degree in Computer Science and Im a <strong>back-end developer.</strong>.<br>
+I'm Clara! I am pursuing a Bachelor's degree in Computer Science and Im a <strong>back-end developer</strong>.<br>
   Im currently learning Java, C++ and AI applications. 
 </p>
 
 <p align="left">
-  (,; ⩌ ;,) Languages: **Typescript, Javascript, Java n SQL**
+  (,; ⩌ ;,) Languages: <strong>Typescript, Javascript, Java n SQL</strong>
 </p>
 
 <p align="left">
-  ദ്ദി◝ ⩊ ◜. Tools and technologies: **Node.js, Git & Github, Postman, PostgreSQL, VScode, PowerBI, Netbeans n Trello.**
+  ദ്ദി◝ ⩊ ◜. Tools and technologies: <strong>Node.js, Git & Github, Postman, PostgreSQL, VScode, PowerBI, Netbeans n Trello.</strong>
 </p>
 
 <p align="left">
-  ദ്(ᵕ—ᴗ—) Frameworks: **Springboot and React.**
+  ദ്(ᵕ—ᴗ—) Frameworks: <strong>Springboot and React.</strong>
 </p>
 
 <p align="left">
-  You can ring me there! ⤵️
+  You can ring me there! ↓
 </p>
 
 <p align="left">
