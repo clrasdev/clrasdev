@@ -26,23 +26,3 @@ I'm Clara! I am pursuing a Bachelor's degree in Computer Science and Im a <stron
   ദ്(ᵕ—ᴗ—) Frameworks: <strong>Springboot and React.</strong>
 </p>
 
-<p align="left">
-  You can ring me there! ↓
-</p>
-
-
-<p align="left">
-  <a href="mailto:mcclara871@gmail.com" title="Gmail">
-    <img
-      src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/libertraum/" title="LinkedIn">
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-</p>
